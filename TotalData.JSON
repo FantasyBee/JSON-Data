@@ -173,6 +173,33 @@
             "hoverSrc": "https://img2.imgtp.com/2024/04/14/biSZ72FL.png",
             "alt": "Image 14"
         }
-    ] 
+    ],
+    "black": {
+        "image1": "https://img2.imgtp.com/2024/04/05/I97ge7Mn.png",
+        "image2": "https://img2.imgtp.com/2024/04/04/DjORnvDI.png",
+        "image3": "https://img2.imgtp.com/2024/04/07/escGHu3o.png",
+        "image4": "https://img2.imgtp.com/2024/04/07/DM0ykKjW.png",
+        "image5": "https://img2.imgtp.com/2024/04/16/bFhmVrya.png",
+        "image6": "https://img2.imgtp.com/2024/04/09/UpgCGanY.png",
+        "image7": "https://img2.imgtp.com/2024/04/15/6MZy22vi.png"
+    },
+    "blue": {
+        "image1": "https://img2.imgtp.com/2024/04/05/I97ge7Mn.png",
+        "image2": "https://img2.imgtp.com/2024/04/06/oDSslobN.png",
+        "image3": "https://img2.imgtp.com/2024/04/07/Iql4or8D.png",
+        "image4": "https://img2.imgtp.com/2024/04/07/ltQ2H3pP.png",
+        "image5": "https://img2.imgtp.com/2024/04/16/R7johBzS.png",
+        "image6": "https://img2.imgtp.com/2024/04/06/PtWXLL2J.png",
+        "image7": "https://img2.imgtp.com/2024/04/15/BXypA2gb.png"
+    },
+    "white": {
+        "image1": "https://img2.imgtp.com/2024/04/04/vBgvxHgF.png",
+        "image2": "https://img2.imgtp.com/2024/04/06/KXAkJk8V.png",
+        "image3": "https://img2.imgtp.com/2024/04/07/zc7C28Hn.png",
+        "image4": "https://img2.imgtp.com/2024/04/07/sklTtWbE.png",
+        "image5": "https://img2.imgtp.com/2024/04/16/5stoSUYO.png",
+        "image6": "https://img2.imgtp.com/2024/04/10/r3ta4xI7.png",
+        "image7": "https://img2.imgtp.com/2024/04/14/EFhJMrmN.png"
+    }
     
 }
